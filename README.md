@@ -3,6 +3,6 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-## Causing Trouble
+## making changes
 
-Creating a pull request conflict right here!
+Changes made for git demo action
